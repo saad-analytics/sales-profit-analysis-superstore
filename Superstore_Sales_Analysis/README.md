@@ -1,4 +1,4 @@
-# Superstore Sales Performance Analysis (2026)
+# Superstore Sales Performance Analysis 
 
 ### Objective
 Analyze sales, profit, and customer behavior for a retail superstore to identify revenue drivers, profit leaks, and actionable business improvements.
