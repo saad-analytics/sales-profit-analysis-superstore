@@ -20,7 +20,7 @@ Analyze sales, profit, and customer behavior for a retail superstore to identify
 
 ---
 
-### 💡 Business Recommendations
+###  Business Recommendations
 
 1.  **Protect Margins:** Reduce aggressive discounts during peak months.
 2.  **Product Optimization:** Fix or remove loss-making furniture items (review pricing, suppliers, or shipping costs).
@@ -30,7 +30,7 @@ Analyze sales, profit, and customer behavior for a retail superstore to identify
 
 ---
 
-### 🚀 Outcome
+###  Outcome
 This project focuses on business decision-making, not just charts — highlighting where the company earns, where it leaks profit, and what actions can improve performance.
 
 *A detailed executive-style report with deeper insights is available on request.*
