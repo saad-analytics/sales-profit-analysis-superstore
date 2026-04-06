@@ -34,3 +34,8 @@ Analyze sales, profit, and customer behavior for a retail superstore to identify
 This project focuses on business decision-making, not just charts — highlighting where the company earns, where it leaks profit, and what actions can improve performance.
 
 *A detailed executive-style report with deeper insights is available on request.*
+
+
+## Let's Work Together
+
+📊 **Fiverr:** [fiverr.com/saadanalytics_](https://www.fiverr.com/saadanalytics_/do-data-analysis-and-create-dashboards-using-python)
